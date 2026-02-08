@@ -59,18 +59,30 @@ These methods are used to uncover hidden patterns and relationships between digi
 - Comparison between highly digitalized and less digitalized environments
 - Identification of correlations
 
+
 ### 🔗 Correlation Analysis
 - Relationship between digital adoption and employment indicators
 - Detection of strongly associated variables
+
+![img](image_readme/Capture0.PNG)
+
 
 ### 🧭 Principal Component Analysis (PCA)
 - Dimensionality reduction
 - Identification of the most influential factors
 - Visualization of the dataset structure
+![img](image_readme/Capture1.PNG)
+![img](image_readme/Capture2.PNG)
+![img](image_readme/Capture3.PNG)
+
+
+
 
 ### 🧩 Cluster Analysis
 - Grouping entities with similar digital and labor characteristics
 - Detection of patterns in workforce structure
+![img](image_readme/Capture5.PNG)
+![img](image_readme/Capture6.PNG)
 
 ---
 
@@ -85,4 +97,3 @@ These methods are used to uncover hidden patterns and relationships between digi
 
 ---
 
-## 📁 Project Structure
